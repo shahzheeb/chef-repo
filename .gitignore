@@ -10,3 +10,5 @@ nodes/*
 .kitchen/
 .kitchen.local.yml
 .DS_Store
+*.iml
+.idea/
